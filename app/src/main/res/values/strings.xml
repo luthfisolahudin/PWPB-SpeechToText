@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speech to Text</string>
+
+    <string name="hint_mic">Tap mic untuk memulai</string>
+
+    <string name="prompt">Tap mic untuk memulai</string>
+</resources>
